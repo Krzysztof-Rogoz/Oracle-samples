@@ -9,10 +9,6 @@
 --    Flexible use as indexed table or SQL function
 
 --
---   USAGE example:
---     ...
---
---
 --  https://github.com/Krzysztof-Rogoz/Oracle-samples
 --
 --  Created: 6-Feb-2024
